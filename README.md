@@ -1,2 +1,3 @@
 # MyTODO
-This is a React Project based on Context API.
+
+This is a React ToDo Web App Based on Context API and Local Storage.
